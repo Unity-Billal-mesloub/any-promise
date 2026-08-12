@@ -157,5 +157,5 @@ This auto-discovery is only available for Node.jS versions prior to `v0.12`. Any
 
 ### Related
 
-- [any-observable](https://github.com/sindresorhus/any-observable) - `any-promise` for Observables.
+- [any-observable](https://github.com/Unity-Billal-mesloub/any-observable) - `any-promise` for Observables.
 
